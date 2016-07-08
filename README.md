@@ -47,6 +47,10 @@ $ make
 $ love game.love
 ```
 
+## Similar projects
+
+[LoveToAndroid](https://love2d.org/forums/viewtopic.php?f=5&t=80513) is an app packager for Windows.
+
 ## Credits
 
 The Android packager is possible thanks to the [Android Port of LÖVE](https://bitbucket.org/MartinFelis/love-android-sdl2)
