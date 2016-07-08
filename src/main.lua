@@ -11,5 +11,5 @@ function love.load()
 end
 
 function love.draw()
-  love.graphics.print("Octopus server started on localhost:5773", 300, 300)
+  love.graphics.print("Welcome to LuaMobile SDK. Powered by LÖVE", 300, 300)
 end
