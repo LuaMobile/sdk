@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 2A9hGS8y2eZHDHhprxeZ5BnB16I=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: 9xsfjxwbHCrMXEp23JitkCuiEeo=
+
+Name: lib/armeabi-v7a/libgnustl_shared.so
+SHA1-Digest: OsxVcqhd0WIuD5dk9s6chGH/HMY=
+
+Name: lib/armeabi/libmpg123.so
+SHA1-Digest: SaLhJH5sRH/SZ+ziEEjzlBY+9ZA=
+
+Name: resources.arsc
+SHA1-Digest: y5uub6yYHDrqAA+uw5r6YrJdENo=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: EVpxoH1hF8Pmkk4zKszzRP8mH7g=
+
+Name: classes.dex
+SHA1-Digest: A8NhPJn++ddNNS9bDRxBPkvvvJY=
+
+Name: lib/armeabi-v7a/libmpg123.so
+SHA1-Digest: URbcG++mMQ/qRo6ygL2sGy3kSvI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: GjI9UJs5Z9kNpqeAhMeP6FXxgrI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: MFlEoxXhn8PTY/HMVlfdunwBvOg=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: o31jRYM+PBhRU1K43UN/7ZxcxDM=
+
+Name: lib/armeabi/libopenal.so
+SHA1-Digest: hoQBDh/bb3Vb1YBZb7s4O4NABSI=
+
+Name: lib/armeabi/libgnustl_shared.so
+SHA1-Digest: WciozcyEf8vbupRNIS9heAAYVMo=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: CAmx+7JFWPH6iDuOuS86PeyMgO8=
+
+Name: lib/armeabi/liblove.so
+SHA1-Digest: OVJKIQ/PxSZP+ttKRvc+SjJa1eM=
+
+Name: lib/armeabi-v7a/liblove.so
+SHA1-Digest: k2mMpHiQaVCvXMySc30S7zYpvL8=
+

@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: rF/OXyBzCbJxR1LoCF4LfqxTe54=
+
+Name: lib/armeabi-v7a/libgnustl_shared.so
+SHA1-Digest: 2OdgcwRrKHBLxP3LMWHVAoDa0v0=
+
+Name: lib/armeabi/libmpg123.so
+SHA1-Digest: gPNmLGt7XLBrfumo1TVU3MGf+ZI=
+
+Name: resources.arsc
+SHA1-Digest: 1Md7lr7v5amNL82MW0aZ5ZCDeXo=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: UBlCU4+oSirTsKhqX4rbveCTNiU=
+
+Name: classes.dex
+SHA1-Digest: oNNgKX/RNCh0+L49YugJ6pt5FPw=
+
+Name: lib/armeabi-v7a/libmpg123.so
+SHA1-Digest: DIXMD5L47zSoQAmatRcHEuZRHKo=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: q03TeXtfLnu3YSqI4I1mJ48+e/A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: qatOT7fN1DrKwYo2dd3u2G1zI6k=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: XJH1N8wmXoZYvSLvbGzyvfUMKNs=
+
+Name: lib/armeabi/libopenal.so
+SHA1-Digest: zVrOi8Mw9BkTbGfMgcIRZq/tkK0=
+
+Name: lib/armeabi/libgnustl_shared.so
+SHA1-Digest: EG8K8t3BKPuE3yuGMN89P/JHmqM=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: 2pBOJ9FYn7x5pPzsli3aUSNAEfI=
+
+Name: lib/armeabi/liblove.so
+SHA1-Digest: tx909KgdJUoGnwYubtWz/ovW2bE=
+
+Name: lib/armeabi-v7a/liblove.so
+SHA1-Digest: r6nG1M8xlLDIFG/Ol0Tm0ej4fJ4=
+

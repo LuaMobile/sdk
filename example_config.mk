@@ -1,0 +1,2 @@
+APP_NAME=LuaMobile
+APK_VERSION=0.1
