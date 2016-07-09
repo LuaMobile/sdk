@@ -11,6 +11,7 @@ Please report your issues and feedback to: https://github.com/LuaMobile/sdk/issu
 - Android
   - [Apktool](http://ibotpeaches.github.io/Apktool/)
   - Java JRE & JDK 7
+  - [ApkRename](https://github.com/sjitech/ApkRename)
 - iOS (nothing yet)
 
 ## Building apps with LuaMobile
