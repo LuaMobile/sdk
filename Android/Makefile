@@ -9,6 +9,7 @@ sign: cert
 
 build: game.love
 	apktool b decoded -o $(APK_FILE)
+	$(MAKE) rename-package
 	$(MAKE) sign
 	@echo
 	@echo Success!
@@ -35,6 +36,9 @@ cert:
 	test -f app.keystore || keytool -genkey -v -keystore app.keystore \
 	-alias CERT -sigalg MD5withRSA -keyalg RSA -keysize 2048 -validity 1825 \
 	-dname "CN=$(APP_NAME),OU=None,O=None,L=None,C=None" -keypass love2d -storepass love2d
+
+rename-package:
+	apkRename.sh $(APK_FILE) $(PACKAGE_NAME)
 
 clean:
 	rm -rf $(APK_FILE) decoded/assets/game.love app.keystore
