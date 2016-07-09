@@ -72,9 +72,4 @@ function love.conf(t)
   }, ";")
 
   installStaticLibraries()
-
-  local custom_lua = "/sdcard/LuaMobile/custom.lua"
-  if os.rename(custom_lua, custom_lua) then
-    dofile(custom_lua)
-  end
 end
