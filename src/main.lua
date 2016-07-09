@@ -1,7 +1,19 @@
+--[[ LuaMobile SDK
 
+This is just an example main.lua file, change or replace it at will.
 
 ]]
 
 function love.draw()
-  love.graphics.print("Welcome to LuaMobile SDK. Powered by LÖVE", 300, 300)
+  local screenW, screenH = love.graphics.getWidth(), love.graphics.getHeight()
+
+  love.graphics.setNewFont(30)
+
+  love.graphics.printf(
+    (
+      "Welcome to LuaMobile SDK!\n" ..
+      "Screen size: %s x %s\n\n" ..
+      "Powered by LÖVE"
+    ):format(screenW, screenH), 0, screenH * 0.2, screenW, 'center'
+  )
 end
