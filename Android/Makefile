@@ -15,7 +15,7 @@ build: game.love
 
 game.love:
 	mkdir -p decoded/assets
-	cd ../; test -f Android/decoded/assets/game.love || $(MAKE) game.love
+	cd ../; test -f game.love || $(MAKE) game.love
 	cp ../game.love decoded/assets/game.love;
 
 decode:
