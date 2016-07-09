@@ -1,6 +1,6 @@
 include config.mk
 
-all: clean game.love apk
+all: clean game.love
 
 clean:
 	rm -f game.love
