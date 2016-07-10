@@ -67,7 +67,7 @@ function love.conf(t)
   -- Add lib/ folder to package loader
   local saveDirectory = love.filesystem.getSaveDirectory()
   package.cpath = table.concat({
-    saveDirectory .. "/lib/?.so", saveDirectory .. "/lib/?/?.so",
+    ("%s/lib/%s/?.so"):format(saveDirectory, jit.arch), ("%s/lib/%s/?/?.so"):format(saveDirectory, jit.arch),
     package.cpath,
   }, ";")
 

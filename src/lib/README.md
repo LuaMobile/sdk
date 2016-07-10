@@ -1,4 +1,4 @@
-Place your binary modules into this folder.
+Place your binary modules into the corresponding architecture folder.
 
 ## How this dark magic works?
 
