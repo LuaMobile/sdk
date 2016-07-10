@@ -4,10 +4,12 @@ This is just an example main.lua file, change or replace it at will.
 
 ]]
 
+function love.load()
+  love.graphics.setNewFont(30)
+end
+
 function love.draw()
   local screenW, screenH = love.graphics.getWidth(), love.graphics.getHeight()
-
-  love.graphics.setNewFont(30)
 
   love.graphics.printf(
     (
