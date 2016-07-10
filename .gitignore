@@ -1,0 +1,5 @@
+game.love
+Android/decoded/build*
+Android/decoded/assets/*
+Android/tmpForApkRename/*
+Android/app.keystore
