@@ -19,7 +19,7 @@ Please report your issues and feedback to: https://github.com/LuaMobile/sdk/issu
 ### Configure your project settings
 
 In order to start building your app, please create a file called ```config.mk```.
-Please see the template file ```example_config.mk``` for reference.
+Please see the template file ```config.mk-example``` for reference.
 
 ### Android packager
 
